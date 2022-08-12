@@ -1,0 +1,15 @@
+package com.example.motivation.infra
+
+class MotivationConstants private constructor() {
+
+    object KEY {
+        const val USER_NAME = "USER_NAME"
+    }
+
+    object FILTER {
+
+        const val INFINIT = 1
+        const val ANCHOR = 2
+        const val ICE = 3
+    }
+}

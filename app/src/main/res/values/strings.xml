@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="name_user">Usuario</string>
+    <string name="phrase_motivation">Riscos dem ser corridos, porque o maior perigo e nao arriscar nada!</string>
+    <string name="button_new_phrase">NOVA FRASE</string>
+    <string name="button_start">SALVAR</string>
+
+
+    <string name="validation_name">Informe seu nome</string>
+    <string name="text_start">Vamos começar ?</string>
+    <string name="edit_name">Qual seu nome?</string>
+</resources>
